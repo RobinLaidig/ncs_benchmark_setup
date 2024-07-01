@@ -3,4 +3,7 @@ This project will contain the source code, hardware schematics, 3D printing file
 
 The video below shows a demo of an automated evaluation with 15 configurations and re-swing-ups between each configuration.
 
-![eval_setup](https://github.com/RobinLaidig/ncs_benchmark_setup/assets/69897594/ac191e98-cc7e-4d4c-b4ca-7043381789da)
+https://github.com/RobinLaidig/ncs_benchmark_setup/assets/69897594/70a90077-aadd-4b8e-bc03-7ed973065d3c
+
+
+
